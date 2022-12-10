@@ -1,0 +1,34 @@
+C:\P25\DateTimeStructureDemo\DateTimeStructureDemo\bin\Debug\DateTimeStructureDemo.exe.config
+C:\P25\DateTimeStructureDemo\DateTimeStructureDemo\bin\Debug\DateTimeStructureDemo.exe
+C:\P25\DateTimeStructureDemo\DateTimeStructureDemo\bin\Debug\DateTimeStructureDemo.pdb
+C:\P25\DateTimeStructureDemo\DateTimeStructureDemo\obj\Debug\DateTimeStructureDemo.csprojResolveAssemblyReference.cache
+C:\P25\DateTimeStructureDemo\DateTimeStructureDemo\obj\Debug\DateTimeStructureDemo.FormDateTime.resources
+C:\P25\DateTimeStructureDemo\DateTimeStructureDemo\obj\Debug\DateTimeStructureDemo.Properties.Resources.resources
+C:\P25\DateTimeStructureDemo\DateTimeStructureDemo\obj\Debug\DateTimeStructureDemo.csproj.GenerateResource.Cache
+C:\P25\DateTimeStructureDemo\DateTimeStructureDemo\obj\Debug\DateTimeStructureDemo.exe
+C:\P25\DateTimeStructureDemo\DateTimeStructureDemo\obj\Debug\DateTimeStructureDemo.pdb
+C:\P25\DateTimeStructureDemo\DateTimeStructureDemo\obj\Debug\DateTimeStructureDemo.FormOperation.resources
+C:\Users\titanCao\Desktop\Winter 2014\P25\Lecture Notes\DateTimeStructureDemo\DateTimeStructureDemo\bin\Debug\DateTimeStructureDemo.exe.config
+C:\Users\titanCao\Desktop\Winter 2014\P25\Lecture Notes\DateTimeStructureDemo\DateTimeStructureDemo\obj\Debug\DateTimeStructureDemo.exe
+C:\Users\titanCao\Desktop\Winter 2014\P25\Lecture Notes\DateTimeStructureDemo\DateTimeStructureDemo\obj\Debug\DateTimeStructureDemo.pdb
+C:\Users\titanCao\Desktop\Winter 2014\P25\Lecture Notes\DateTimeStructureDemo\DateTimeStructureDemo\bin\Debug\DateTimeStructureDemo.exe
+C:\Users\titanCao\Desktop\Winter 2014\P25\Lecture Notes\DateTimeStructureDemo\DateTimeStructureDemo\bin\Debug\DateTimeStructureDemo.pdb
+C:\Users\titanCao\Desktop\Winter 2014\P25\Lecture Notes\DateTimeStructureDemo\DateTimeStructureDemo\obj\Debug\DateTimeStructureDemo.csprojResolveAssemblyReference.cache
+C:\Users\titanCao\Desktop\Winter 2014\P25\Lecture Notes\DateTimeStructureDemo\DateTimeStructureDemo\obj\Debug\DateTimeStructureDemo.FormDateTime.resources
+C:\Users\titanCao\Desktop\Winter 2014\P25\Lecture Notes\DateTimeStructureDemo\DateTimeStructureDemo\obj\Debug\DateTimeStructureDemo.FormOperation.resources
+C:\Users\titanCao\Desktop\Winter 2014\P25\Lecture Notes\DateTimeStructureDemo\DateTimeStructureDemo\obj\Debug\DateTimeStructureDemo.Properties.Resources.resources
+C:\Users\titanCao\Desktop\Winter 2014\P25\Lecture Notes\DateTimeStructureDemo\DateTimeStructureDemo\obj\Debug\DateTimeStructureDemo.csproj.GenerateResource.Cache
+C:\Users\Yannick\Desktop\C#\DateTimeStructureDemo\DateTimeStructureDemo\DateTimeStructureDemo\bin\Debug\DateTimeStructureDemo.exe.config
+C:\Users\Yannick\Desktop\C#\DateTimeStructureDemo\DateTimeStructureDemo\DateTimeStructureDemo\obj\Debug\DateTimeStructureDemo.exe
+C:\Users\Yannick\Desktop\C#\DateTimeStructureDemo\DateTimeStructureDemo\DateTimeStructureDemo\obj\Debug\DateTimeStructureDemo.pdb
+D:\Users\Yannick\Desktop\Portfolio\project to review\C#\DateTimeStructureDemo\DateTimeStructureDemo\DateTimeStructureDemo\bin\Debug\DateTimeStructureDemo.exe.config
+D:\Users\Yannick\Desktop\Portfolio\project to review\C#\DateTimeStructureDemo\DateTimeStructureDemo\DateTimeStructureDemo\bin\Debug\DateTimeStructureDemo.exe
+D:\Users\Yannick\Desktop\Portfolio\project to review\C#\DateTimeStructureDemo\DateTimeStructureDemo\DateTimeStructureDemo\bin\Debug\DateTimeStructureDemo.pdb
+D:\Users\Yannick\Desktop\Portfolio\project to review\C#\DateTimeStructureDemo\DateTimeStructureDemo\DateTimeStructureDemo\obj\Debug\DateTimeStructureDemo.csproj.AssemblyReference.cache
+D:\Users\Yannick\Desktop\Portfolio\project to review\C#\DateTimeStructureDemo\DateTimeStructureDemo\DateTimeStructureDemo\obj\Debug\DateTimeStructureDemo.FormDateTime.resources
+D:\Users\Yannick\Desktop\Portfolio\project to review\C#\DateTimeStructureDemo\DateTimeStructureDemo\DateTimeStructureDemo\obj\Debug\DateTimeStructureDemo.FormOperation.resources
+D:\Users\Yannick\Desktop\Portfolio\project to review\C#\DateTimeStructureDemo\DateTimeStructureDemo\DateTimeStructureDemo\obj\Debug\DateTimeStructureDemo.Properties.Resources.resources
+D:\Users\Yannick\Desktop\Portfolio\project to review\C#\DateTimeStructureDemo\DateTimeStructureDemo\DateTimeStructureDemo\obj\Debug\DateTimeStructureDemo.csproj.GenerateResource.cache
+D:\Users\Yannick\Desktop\Portfolio\project to review\C#\DateTimeStructureDemo\DateTimeStructureDemo\DateTimeStructureDemo\obj\Debug\DateTimeStructureDemo.csproj.CoreCompileInputs.cache
+D:\Users\Yannick\Desktop\Portfolio\project to review\C#\DateTimeStructureDemo\DateTimeStructureDemo\DateTimeStructureDemo\obj\Debug\DateTimeStructureDemo.exe
+D:\Users\Yannick\Desktop\Portfolio\project to review\C#\DateTimeStructureDemo\DateTimeStructureDemo\DateTimeStructureDemo\obj\Debug\DateTimeStructureDemo.pdb
